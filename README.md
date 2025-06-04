@@ -9,5 +9,5 @@
 
 - 📩 You can reach me at **dcotrim.me@gmail.com**
 
-- 💡 "I have no special talents. I am only passionately curious." – Albert Einstein
+- 💡 "The spirit that asks 'what if?' is already halfway to becoming limitless."
 
