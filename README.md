@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Danilo Cotrim</h1>
 <h3 align="center">Welcome to my GitHub Page</h3>
 
-![](https://komarev.com/ghpvc/?username=Deeo-Dan42rname&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=Deeo-Dan42rname&abbreviated=true&color=green)
 
 - 📈 Currently building business analytics projects to my portfolio 
 
